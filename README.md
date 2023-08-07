@@ -1,4 +1,4 @@
-# mmm_miniclip
+# MMM_Miniclip
 
 **1. Capitalize on Seasonality:**
    - Launch a multi-channel marketing campaign in August to build anticipation for the high revenue month of September. Highlight special in-game events and promotions that players can look forward to.
