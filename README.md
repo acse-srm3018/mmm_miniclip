@@ -44,15 +44,3 @@ My exploratory data analysis provided valuable insights into the dataset. I visu
    - Offer special content and rewards to boost engagement beyond September.
    - Utilize IronSource to re-engage existing users.
 
-**8. Continuous Optimization:**
-   - Monitor real-time performance of campaigns and channels.
-   - Adjust budgets and strategies for optimal results.
-
-**9. Customer Feedback and Personalization:**
-   - Gather player feedback to tailor in-game events and rewards.
-
-**10. Collaborative Approach:**
-    - Work closely with marketing, data analysts, and stakeholders for successful execution.
-
-By aligning allocated budgets, ROAS values, and correlation analysis, these strategies maximize profits during the high revenue season through targeted spending and data-driven decisions.
-
